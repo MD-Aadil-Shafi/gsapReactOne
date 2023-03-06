@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.17a73a2e.css",
-    "main.js": "/static/js/main.6198127c.js",
-    "static/media/vidTwo.mp4": "/static/media/vidTwo.659618d14eb3b5a67a85.mp4",
-    "static/media/screenVideo.mp4": "/static/media/screenVideo.d923e6682c5bf6ef06ce.mp4",
-    "static/media/vidOne.mp4": "/static/media/vidOne.da2549aec28d221bd2fe.mp4",
-    "static/media/phone.png": "/static/media/phone.6d9a3760fb043c6efa23.png",
-    "index.html": "/index.html",
-    "main.17a73a2e.css.map": "/static/css/main.17a73a2e.css.map",
-    "main.6198127c.js.map": "/static/js/main.6198127c.js.map"
+    "main.css": "/gsapReactOne/static/css/main.17a73a2e.css",
+    "main.js": "/gsapReactOne/static/js/main.81ca0322.js",
+    "static/media/vidTwo.mp4": "/gsapReactOne/static/media/vidTwo.659618d14eb3b5a67a85.mp4",
+    "static/media/screenVideo.mp4": "/gsapReactOne/static/media/screenVideo.d923e6682c5bf6ef06ce.mp4",
+    "static/media/vidOne.mp4": "/gsapReactOne/static/media/vidOne.da2549aec28d221bd2fe.mp4",
+    "static/media/phone.png": "/gsapReactOne/static/media/phone.6d9a3760fb043c6efa23.png",
+    "index.html": "/gsapReactOne/index.html",
+    "main.17a73a2e.css.map": "/gsapReactOne/static/css/main.17a73a2e.css.map",
+    "main.81ca0322.js.map": "/gsapReactOne/static/js/main.81ca0322.js.map"
   },
   "entrypoints": [
     "static/css/main.17a73a2e.css",
-    "static/js/main.6198127c.js"
+    "static/js/main.81ca0322.js"
   ]
 }

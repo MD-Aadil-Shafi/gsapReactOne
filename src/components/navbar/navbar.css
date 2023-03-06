@@ -1,0 +1,22 @@
+.navbar a{
+    color:black;
+}
+
+.darkNav{
+    background-color: rgba(0,0,0,0.9);
+    color: white !important;
+    transition: 1s ease-in;
+}
+.darkNav Link{
+    color: white;
+}
+
+.logo{
+    width: 40px;
+}
+
+.nav-link:hover{
+    color: goldenrod;
+    transform: scale(1.1);
+    transition: 0.2s ease-in;
+}

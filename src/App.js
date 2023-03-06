@@ -1,7 +1,7 @@
 
 import './App.css';
 import Main from './pages/Main';
-import {BrowserRouter as Router, Navigate, Route, Routes} from 'react-router-dom'
+import {BrowserRouter as Router, Navigate, Route, Routes, HashRouter} from 'react-router-dom'
 import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
 import Enquiry from './pages/enquiry/Enquiry';
@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
-    <Router>
+    <>
       <ToastContainer/>
       <Navbar/>
       <Routes>
@@ -20,7 +20,7 @@ function App() {
         <Route path="*" element={<Navigate to='/'/>}></Route>
       </Routes>
       <Footer/>
-    </Router>
+    </>
 
   );
 }
